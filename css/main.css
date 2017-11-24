@@ -1,0 +1,21 @@
+/**
+ * Dafprank (https://github.com/AppliberatedHWA/dafprank/)
+ * Copyright (c) 2017 Appliberated (https://www.appliberated.com)
+ * Licensed under MIT (https://github.com/AppliberatedHWA/dafprank/blob/master/LICENSE)
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+iframe {
+    border: none;
+    height: 100%;
+    width: 100%;
+}
